@@ -1,2 +1,14 @@
-# MrishaDream-book
-Welcome to a world of stories and imagination! Here, you`ll find captivating books, enchanting illustration, and es that bring worlmagical adventurds to life. Dive into tales that inspire, entertain, and transport you to places beyond your dreams. Subscribe and let the journey begin!
+# Библиотека [ТВОЁ НАЗВАНИЕ]
+
+Добро пожаловать! Здесь я выкладываю свои книги в PDF и EPUB.  
+📖 Читайте онлайн или скачивайте!  
+
+## 📚 Что здесь есть?
+- Книги с иллюстрациями  
+- Удобный формат для чтения на телефонах и читалках  
+
+## 🔗 Как читать?
+- **PDF** – для просмотра на компьютере и телефоне  
+- **EPUB** – для читалок Kindle, Kobo и др.  
+
+Приятного чтения! 😊
