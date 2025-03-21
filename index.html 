@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Tale</title>
+</head>
+<body>
+    <h1>Welcome to Star Tale</h1>
+    <img src="имя_твоего_файла1.png" alt="Book cover">
+    <img src="имя_твоего_файла2.png" alt="Download buttons">
+</body>
+</html>
